@@ -1,0 +1,2 @@
+# risma
+portofolio pertama risma
